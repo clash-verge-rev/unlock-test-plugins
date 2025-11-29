@@ -1,0 +1,20 @@
+export const meta = {
+  name: "media-unlock",
+  version: "0.1.0",
+  apiVersion: "1.0.0",
+  tests: [
+    { id: "bilibili-cn", label: "哔哩哔哩大陆" },
+    { id: "bilibili-hk", label: "哔哩哔哩港澳台" },
+    { id: "chatgpt", label: "ChatGPT Web/iOS" },
+    { id: "claude", label: "Claude" },
+    { id: "gemini", label: "Gemini" },
+    { id: "youtube-premium", label: "YouTube Premium" },
+    { id: "bahamut", label: "Bahamut Anime" },
+    { id: "netflix", label: "Netflix" },
+    { id: "disney-plus", label: "Disney+" },
+    { id: "spotify", label: "Spotify" },
+    { id: "tiktok", label: "TikTok" },
+    { id: "prime-video", label: "Prime Video" },
+  ],
+  integrity: "sha256-PLACEHOLDER",
+};
